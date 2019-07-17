@@ -15,5 +15,5 @@ shout out for the amazing tutorial, very well done!
 ## changes
 
 * i made some changes, but i mostly agree with the practices from the author, bare in mind that these changes are opiniated and may not reflect your impression
-* the author added few comments, which might confuse some that read through the project, i helped fix that, and tried to stay has neutral when possible, again these might be opinianated, so take a grain of salt if you disagree
-* i also changed the structure slightly, since i do not agree with the idea of injecting a string has the main template, also it would not be reflective of an actual project, so added extra file
+* the author added few comments, which might confuse some that read through the project, i helped fix that, and tried to stay as neutral as possible, again these might be opinianated, so take it with a grain of salt if you disagree
+* i also changed the structure slightly, since i do not agree with the idea of injecting a string as the main template, also it would not be reflective of an actual project, so added a file for this
